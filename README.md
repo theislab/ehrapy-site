@@ -5,7 +5,7 @@ cd ehrapy-site
 npx docusaurus start
 ```
 
-And visit: 
+And visit: http://localhost:3000/markdown-page
 
 
 # Website
